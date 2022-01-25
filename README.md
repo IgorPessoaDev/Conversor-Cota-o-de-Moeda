@@ -1,7 +1,7 @@
 Axios = https://axios-http.com/ptbr/docs/intro
 Link da API = https://docs.awesomeapi.com.br/api-de-moedas
 
-## O Legendas
+## Legendas
            
  | Key   |  Label  |
 | --- | --- |
